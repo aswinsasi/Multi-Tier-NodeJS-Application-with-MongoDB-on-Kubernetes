@@ -169,7 +169,7 @@ Use this IP address to access the NodeJS application.
 
 ### **5.1 Add an Employee**
 
-Access the NodeJS application via the provided IP and port, and use the endpoint to add an employee.
+Access the NodeJS application via the provided IP and port, (http://localhost:8888/) and use the endpoint to add an employee.
 
 ### **5.2 Verify the Employee**
 
